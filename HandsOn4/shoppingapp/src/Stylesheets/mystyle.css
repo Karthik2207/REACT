@@ -1,0 +1,16 @@
+.Row{
+color:aquamarine;
+}
+.Table{
+    border: 2px solid black;
+    color: aquamarine;
+    margin: auto;
+}
+.align{
+    margin: auto;
+    text-align: center;
+    
+}
+table,th, td{
+    border: 2px solid black;
+}
