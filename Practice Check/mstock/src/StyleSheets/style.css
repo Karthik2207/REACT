@@ -1,0 +1,14 @@
+.menu{    
+    background-color: black;     
+}
+a{
+    color:white;
+    font-size: 100;
+    margin-left: 3%;
+}
+
+table{
+    border-top: none;
+    border-collapse: separate;
+    border-spacing:0 10px;
+}
